@@ -1,6 +1,6 @@
 package com.fengzhi.kotlinlearning.chapter6
 
-fun main(args: Array<String>) {
+fun main() {
     val c1="A"
     val c2='\u0041'
     val c3:Char='花'
